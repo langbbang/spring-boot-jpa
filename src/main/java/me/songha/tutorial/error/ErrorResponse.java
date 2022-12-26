@@ -8,7 +8,6 @@ import java.util.List;
 
 @Getter
 public class ErrorResponse {
-
     private String message;
     private String code;
     private int status;
